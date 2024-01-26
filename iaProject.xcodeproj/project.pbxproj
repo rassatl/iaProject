@@ -11,6 +11,7 @@
 		B483BF782B63B21C002DE592 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B483BF772B63B21C002DE592 /* ContentView.swift */; };
 		B483BF7A2B63B21E002DE592 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B483BF792B63B21E002DE592 /* Assets.xcassets */; };
 		B483BF7D2B63B21E002DE592 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B483BF7C2B63B21E002DE592 /* Preview Assets.xcassets */; };
+		B483BF862B63C2E0002DE592 /* Sentimentiutacy 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B483BF852B63C2E0002DE592 /* Sentimentiutacy 1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B483BF772B63B21C002DE592 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B483BF792B63B21E002DE592 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B483BF7C2B63B21E002DE592 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B483BF852B63C2E0002DE592 /* Sentimentiutacy 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "Sentimentiutacy 1.mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				B483BF752B63B21C002DE592 /* iaProjectApp.swift */,
+				B483BF852B63C2E0002DE592 /* Sentimentiutacy 1.mlmodel */,
 				B483BF772B63B21C002DE592 /* ContentView.swift */,
 				B483BF792B63B21E002DE592 /* Assets.xcassets */,
 				B483BF7B2B63B21E002DE592 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B483BF782B63B21C002DE592 /* ContentView.swift in Sources */,
+				B483BF862B63C2E0002DE592 /* Sentimentiutacy 1.mlmodel in Sources */,
 				B483BF762B63B21C002DE592 /* iaProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5E667D8D-E192-4252-B346-187D12B0929F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F272B733-5682-4B4C-8E78-A4AF464F57B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iaProject/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "guessSentiment()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F272B733-5682-4B4C-8E78-A4AF464F57B3 - 358d0ebd3d517dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iaProject.ContentView.guessSentiment() -&gt; ()"
+                  moduleName = "iaProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rassatl/Documents/iaProject/iaProject/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "63">
+               </Location>
+               <Location
+                  uuid = "F272B733-5682-4B4C-8E78-A4AF464F57B3 - 358d0ebd3d517dd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iaProject.ContentView.guessSentiment() -&gt; ()"
+                  moduleName = "iaProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rassatl/Documents/iaProject/iaProject/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "66">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
